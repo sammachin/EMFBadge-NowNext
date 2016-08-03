@@ -102,7 +102,7 @@ ugfx.init()
 buttons.init()
 
 #Server Address
-server = 'imaclocal.sammachin.com'
+server = 'badge.sammachin.com'
 
 
 #Main Screen
