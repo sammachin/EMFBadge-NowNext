@@ -102,7 +102,7 @@ ugfx.init()
 buttons.init()
 
 #Server Address
-server = 'badge.sammachin.com'
+server = 'badge.emf.camp'
 
 
 #Main Screen
